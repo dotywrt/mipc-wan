@@ -1,0 +1,10 @@
+EAU MDDB/MCF update
+===================
+modem.img and dsp.bin retained from current EAU set:
+  modem: 81107.7000.00.08.01.27 / FG360-EAU-05-13_CFT_V02_B
+
+MDDB/MCF replaced from SDK EAU source:
+  evb6890v1_64_cpe_nand_eau_00
+  MDDB: 81102.7000.00.05.01.18
+
+NOTE: This intentionally keeps the newer 81107 modem while using the SDK's available EAU MDDB/MCF (81102).
